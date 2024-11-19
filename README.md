@@ -45,7 +45,7 @@ The dataset contains information on customers and their responses to insurance p
  How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/insurance-response-prediction.git
+   git clone https://github.com/omkar-naik-git/insurance-response-prediction.git
    ```
 2. Install the required dependencies:
    ```bash
